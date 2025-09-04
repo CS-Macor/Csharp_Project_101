@@ -1,0 +1,30 @@
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.exe
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.deps.json
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.runtimeconfig.json
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.dll
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.pdb
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.AssemblyInfoInputs.cache
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.AssemblyInfo.cs
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.csproj.CoreCompileInputs.cache
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.dll
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\refint\Module_2_Practices.dll
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.pdb
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.genruntimeconfig.cache
+D:\0. GURU Saroeun\1. IT Step Academy\FT_SD_E19_C#\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\Module_2\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\ref\Module_2_Practices.dll
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.Properties.Resources.resources
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.csproj.GenerateResource.cache
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.AssemblyInfoInputs.cache
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.AssemblyInfo.cs
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.csproj.CoreCompileInputs.cache
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.exe
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.deps.json
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.runtimeconfig.json
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.dll
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\bin\Debug\net9.0\Module_2_Practices.pdb
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.dll
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\refint\Module_2_Practices.dll
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.pdb
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\Module_2_Practices.genruntimeconfig.cache
+E:\Path_Practice C# Project\YourName_Module2_Practices\Module_2_Practices\obj\Debug\net9.0\ref\Module_2_Practices.dll
