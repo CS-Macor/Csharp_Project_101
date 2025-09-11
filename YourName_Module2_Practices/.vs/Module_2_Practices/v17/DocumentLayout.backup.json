@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Path_Practice C# Project\\YourName_Module2_Practices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{165D05EE-33AB-4606-898B-45B10DCE9FEA}|Module_2_Practices\\Module_2_Practices.csproj|e:\\path_practice c# project\\yourname_module2_practices\\module_2_practices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165D05EE-33AB-4606-898B-45B10DCE9FEA}|Module_2_Practices\\Module_2_Practices.csproj|solutionrelative:module_2_practices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165D05EE-33AB-4606-898B-45B10DCE9FEA}|Module_2_Practices\\Module_2_Practices.csproj|e:\\path_practice c# project\\yourname_module2_practices\\module_2_practices\\module_2_practices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{165D05EE-33AB-4606-898B-45B10DCE9FEA}|Module_2_Practices\\Module_2_Practices.csproj|solutionrelative:module_2_practices\\module_2_practices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module_2_Practices.csproj",
+              "DocumentMoniker": "E:\\Path_Practice C# Project\\YourName_Module2_Practices\\Module_2_Practices\\Module_2_Practices.csproj",
+              "RelativeDocumentMoniker": "Module_2_Practices\\Module_2_Practices.csproj",
+              "ToolTip": "E:\\Path_Practice C# Project\\YourName_Module2_Practices\\Module_2_Practices\\Module_2_Practices.csproj",
+              "RelativeToolTip": "Module_2_Practices\\Module_2_Practices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T13:26:40.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Path_Practice C# Project\\YourName_Module2_Practices\\Module_2_Practices\\Program.cs",
+              "RelativeDocumentMoniker": "Module_2_Practices\\Program.cs",
+              "ToolTip": "E:\\Path_Practice C# Project\\YourName_Module2_Practices\\Module_2_Practices\\Program.cs",
+              "RelativeToolTip": "Module_2_Practices\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:49:56.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
