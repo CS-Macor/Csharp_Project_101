@@ -1,0 +1,14 @@
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\bin\Debug\net8.0\M2_Operator_1.exe
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\bin\Debug\net8.0\M2_Operator_1.deps.json
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\bin\Debug\net8.0\M2_Operator_1.runtimeconfig.json
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\bin\Debug\net8.0\M2_Operator_1.dll
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\bin\Debug\net8.0\M2_Operator_1.pdb
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.AssemblyInfoInputs.cache
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.AssemblyInfo.cs
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.csproj.CoreCompileInputs.cache
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.dll
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\refint\M2_Operator_1.dll
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.pdb
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\M2_Operator_1.genruntimeconfig.cache
+G:\Path_Practice C# Project\M2_Operator_1\M2_Operator_1\obj\Debug\net8.0\ref\M2_Operator_1.dll
