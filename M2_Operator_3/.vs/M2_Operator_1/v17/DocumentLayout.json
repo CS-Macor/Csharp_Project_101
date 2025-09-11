@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Path_Practice C# Project\\M2_Operator_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\unary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\unary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\ternary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\ternary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\relational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\relational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\logical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\logical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\bitwise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\bitwise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|g:\\path_practice c# project\\m2_operator_1\\m2_operator_1\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB7A353-E931-4584-8E2A-648866195D22}|M2_Operator_1\\M2_Operator_1.csproj|solutionrelative:m2_operator_1\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ternary.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Ternary.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Ternary.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Ternary.cs",
+              "RelativeToolTip": "M2_Operator_1\\Ternary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:05:06.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Assignment.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Assignment.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Assignment.cs",
+              "RelativeToolTip": "M2_Operator_1\\Assignment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T02:03:19.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Arithmetic.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Arithmetic.cs",
+              "RelativeToolTip": "M2_Operator_1\\Arithmetic.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:26:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logical.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Logical.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Logical.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Logical.cs",
+              "RelativeToolTip": "M2_Operator_1\\Logical.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:26:34.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Relational.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Relational.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Relational.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Relational.cs",
+              "RelativeToolTip": "M2_Operator_1\\Relational.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:26:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bitwise.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Bitwise.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Bitwise.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Bitwise.cs",
+              "RelativeToolTip": "M2_Operator_1\\Bitwise.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:26:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unary.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Unary.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Unary.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Unary.cs",
+              "RelativeToolTip": "M2_Operator_1\\Unary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:26:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Program.cs",
+              "RelativeDocumentMoniker": "M2_Operator_1\\Program.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\M2_Operator_1\\M2_Operator_1\\Program.cs",
+              "RelativeToolTip": "M2_Operator_1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:25:27.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
