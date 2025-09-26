@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Path_Practice C# Project\\Pattern_26_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2EA8F4-E9B7-4AFF-875C-0B4504FCF63D}|Pattern_26_App\\Pattern_26_App.csproj|g:\\path_practice c# project\\pattern_26_app\\pattern_26_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2EA8F4-E9B7-4AFF-875C-0B4504FCF63D}|Pattern_26_App\\Pattern_26_App.csproj|solutionrelative:pattern_26_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Path_Practice C# Project\\Pattern_26_App\\Pattern_26_App\\Program.cs",
+              "RelativeDocumentMoniker": "Pattern_26_App\\Program.cs",
+              "ToolTip": "G:\\Path_Practice C# Project\\Pattern_26_App\\Pattern_26_App\\Program.cs",
+              "RelativeToolTip": "Pattern_26_App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T12:37:43.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

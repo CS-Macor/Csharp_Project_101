@@ -1,0 +1,14 @@
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.GeneratedMSBuildEditorConfig.editorconfig
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.AssemblyInfoInputs.cache
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.AssemblyInfo.cs
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.csproj.CoreCompileInputs.cache
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\bin\Debug\net9.0\Pattern_26_App.exe
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\bin\Debug\net9.0\Pattern_26_App.deps.json
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\bin\Debug\net9.0\Pattern_26_App.runtimeconfig.json
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\bin\Debug\net9.0\Pattern_26_App.dll
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\bin\Debug\net9.0\Pattern_26_App.pdb
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.dll
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\refint\Pattern_26_App.dll
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.pdb
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\Pattern_26_App.genruntimeconfig.cache
+G:\Path_Practice C# Project\Pattern_26_App\Pattern_26_App\obj\Debug\net9.0\ref\Pattern_26_App.dll
