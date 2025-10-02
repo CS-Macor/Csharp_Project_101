@@ -1,0 +1,14 @@
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\bin\Debug\net8.0\HomeWorkIndividual_Calculation.exe
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\bin\Debug\net8.0\HomeWorkIndividual_Calculation.deps.json
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\bin\Debug\net8.0\HomeWorkIndividual_Calculation.runtimeconfig.json
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\bin\Debug\net8.0\HomeWorkIndividual_Calculation.dll
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\bin\Debug\net8.0\HomeWorkIndividual_Calculation.pdb
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.AssemblyInfoInputs.cache
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.AssemblyInfo.cs
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.csproj.CoreCompileInputs.cache
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.dll
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\refint\HomeWorkIndividual_Calculation.dll
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.pdb
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\HomeWorkIndividual_Calculation.genruntimeconfig.cache
+G:\Path_Practice C# Project\HomeWorkIndividual_Calculation\HomeWorkIndividual_Calculation\obj\Debug\net8.0\ref\HomeWorkIndividual_Calculation.dll

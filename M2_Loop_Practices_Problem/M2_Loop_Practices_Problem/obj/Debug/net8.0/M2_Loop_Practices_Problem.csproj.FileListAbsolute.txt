@@ -1,0 +1,14 @@
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\bin\Debug\net8.0\M2_Loop_Practices_Problem.exe
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\bin\Debug\net8.0\M2_Loop_Practices_Problem.deps.json
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\bin\Debug\net8.0\M2_Loop_Practices_Problem.runtimeconfig.json
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\bin\Debug\net8.0\M2_Loop_Practices_Problem.dll
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\bin\Debug\net8.0\M2_Loop_Practices_Problem.pdb
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.AssemblyInfoInputs.cache
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.AssemblyInfo.cs
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.csproj.CoreCompileInputs.cache
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.dll
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\refint\M2_Loop_Practices_Problem.dll
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.pdb
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\M2_Loop_Practices_Problem.genruntimeconfig.cache
+G:\Path_Practice C# Project\M2_Loop_Practices_Problem\M2_Loop_Practices_Problem\obj\Debug\net8.0\ref\M2_Loop_Practices_Problem.dll
