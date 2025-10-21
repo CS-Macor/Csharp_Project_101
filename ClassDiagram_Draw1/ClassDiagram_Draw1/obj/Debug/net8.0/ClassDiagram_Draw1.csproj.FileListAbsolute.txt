@@ -1,0 +1,14 @@
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\bin\Debug\net8.0\ClassDiagram_Draw1.exe
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\bin\Debug\net8.0\ClassDiagram_Draw1.deps.json
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\bin\Debug\net8.0\ClassDiagram_Draw1.runtimeconfig.json
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\bin\Debug\net8.0\ClassDiagram_Draw1.dll
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\bin\Debug\net8.0\ClassDiagram_Draw1.pdb
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.AssemblyInfoInputs.cache
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.AssemblyInfo.cs
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.csproj.CoreCompileInputs.cache
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.dll
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\refint\ClassDiagram_Draw1.dll
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.pdb
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ClassDiagram_Draw1.genruntimeconfig.cache
+G:\Path_Practice C# Project\ClassDiagram_Draw1\ClassDiagram_Draw1\obj\Debug\net8.0\ref\ClassDiagram_Draw1.dll
