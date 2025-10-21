@@ -15,7 +15,14 @@ namespace classDiagram_Draw1
             while (true)
             {
                 Console.Write("Enter Main Menu Option: ");
-                int num = Convert.ToInt32(Console.ReadLine());
+                string input = Console.ReadLine();
+
+                if (!int.TryParse(input, out int num))
+                {
+                    Console.WriteLine("Invalid input.");
+                    continue;
+                }
+
                 if (num == 1)
                 {
                     Console.WriteLine("=== Welcome to User Management ===");
@@ -31,7 +38,13 @@ namespace classDiagram_Draw1
                     while (true)
                     {
                         Console.Write("Enter User Management Option: ");
-                        int num1 = Convert.ToInt32(Console.ReadLine());
+                        string input1 = Console.ReadLine();
+
+                        if (!int.TryParse(input1, out int num1))
+                        {
+                            Console.WriteLine("Invalid input.");
+                            continue;
+                        }
 
                         if (num1 == 1)
                         {
@@ -78,7 +91,13 @@ namespace classDiagram_Draw1
                     while (true)
                     {
                         Console.Write("Enter Role Management Option: ");
-                        int num2 = Convert.ToInt32(Console.ReadLine());
+                        string input2 = Console.ReadLine();
+
+                         if (!int.TryParse(input2, out int num2))
+                        {
+                            Console.WriteLine("Invalid input.");
+                            continue;
+                        }
 
                         if (num2 == 1)
                         {

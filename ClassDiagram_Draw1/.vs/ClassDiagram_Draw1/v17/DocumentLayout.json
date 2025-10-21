@@ -1,24 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\",
+  "WorkspaceRootPath": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|g:\\path_practice c# project\\classdiagram_draw1\\classdiagram_draw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|g:\\path_share_csharp_project_github\\csharp_project_101\\classdiagram_draw1\\classdiagram_draw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|solutionrelative:classdiagram_draw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|g:\\path_practice c# project\\classdiagram_draw1\\classdiagram_draw1\\classdiagram_draw1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|g:\\path_share_csharp_project_github\\csharp_project_101\\classdiagram_draw1\\classdiagram_draw1\\classdiagram_draw1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|solutionrelative:classdiagram_draw1\\classdiagram_draw1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\classdiagram_draw1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\classdiagram_draw1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|solutionrelative:classdiagram_draw1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|g:\\path_practice c# project\\classdiagram_draw1\\classdiagram_draw1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|g:\\path_share_csharp_project_github\\csharp_project_101\\classdiagram_draw1\\classdiagram_draw1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{018D9403-AC28-4012-BC61-6B034DBF75C4}|ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj|solutionrelative:classdiagram_draw1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,13 +43,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ClassDiagram_Draw1",
-              "DocumentMoniker": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
+              "DocumentMoniker": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
               "RelativeDocumentMoniker": "ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
-              "ToolTip": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
+              "ToolTip": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
               "RelativeToolTip": "ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-21T02:22:06.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T02:22:06.737Z"
             },
             {
               "$type": "Document",
@@ -59,16 +58,15 @@
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-10-21T02:21:44.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T02:21:44.887Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Users.cs",
-              "DocumentMoniker": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Users.cs",
+              "DocumentMoniker": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Users.cs",
               "RelativeDocumentMoniker": "ClassDiagram_Draw1\\Users.cs",
-              "ToolTip": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Users.cs",
+              "ToolTip": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Users.cs",
               "RelativeToolTip": "ClassDiagram_Draw1\\Users.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram1.cd",
+              "DocumentMoniker": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram_Draw1\\ClassDiagram1.cd",
-              "ToolTip": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram1.cd",
+              "ToolTip": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram1.cd",
               "RelativeToolTip": "ClassDiagram_Draw1\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2025-10-18T09:13:36.168Z"
@@ -89,11 +87,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Program.cs",
+              "DocumentMoniker": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Program.cs",
               "RelativeDocumentMoniker": "ClassDiagram_Draw1\\Program.cs",
-              "ToolTip": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Program.cs",
+              "ToolTip": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\Program.cs",
               "RelativeToolTip": "ClassDiagram_Draw1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T09:13:10.729Z",
               "EditorCaption": ""

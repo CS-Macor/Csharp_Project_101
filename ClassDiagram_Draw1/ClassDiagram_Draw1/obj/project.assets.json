@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
+      "projectUniqueName": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
       "projectName": "ClassDiagram_Draw1",
-      "projectPath": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
+      "projectPath": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\ClassDiagram_Draw1.csproj",
       "packagesPath": "C:\\Users\\khunly.khov\\.nuget\\packages\\",
-      "outputPath": "G:\\Path_Practice C# Project\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\obj\\",
+      "outputPath": "G:\\Path_Share_Csharp_Project_Github\\Csharp_Project_101\\ClassDiagram_Draw1\\ClassDiagram_Draw1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khunly.khov\\AppData\\Roaming\\NuGet\\NuGet.Config",
